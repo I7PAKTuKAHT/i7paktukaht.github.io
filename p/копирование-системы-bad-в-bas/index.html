@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Шаги подготовки TBD
+Выполнение Удаляем старый сервер БД HANA2 vhtl2basdb01:/hana/shared/BAS/hdblcm # ./hdblcm SAP HANA Lifecycle Management - SAP HANA Database 2.00.037.01.1557479495 ************************************************************************ Choose an action Index | Action | Description ------------------------------------------------------------------------------------------- 1 | add_host_roles | Add Host Roles 2 | add_hosts | Add Hosts to the SAP HANA Database System 3 | check_installation | Check SAP HANA Database Installation 4 | configure_internal_network | Configure Inter-Service Communication 5 | configure_sld | Configure System Landscape Directory Registration 6 | extract_components | Extract Components 7 | print_component_list | Print Component List 8 | remove_host_roles | Remove Host Roles 9 | rename_system | Rename the SAP HANA Database System 10 | uninstall | Uninstall SAP HANA Database Components 11 | unregister_system | Unregister the SAP HANA Database System 12 | update_component_list | Update Component List 13 | update_components | Install or Update Additional Components 14 | update_host | Update the SAP HANA Database Instance Host integration 15 | update | Update the SAP HANA Database System 16 | exit | Exit (do nothing) Enter selected action index [16]: Choose components to be uninstalled for system &amp;#39;BAS&amp;#39;: Index | Components | Description ---------------------------------------------------------------------------------------------- 1 | all | SAP HANA Database version 2.'><title>Копирование системы BAD в BAS</title>
+
+<link rel='canonical' href='https://example.com/p/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-bad-%D0%B2-bas/'>
+
+<link rel="stylesheet" href="/scss/style.min.5a8e892f6fa14515e9065eee1f5d2e05302606ec7f11750b2fb95198f9cdcbfd.css"><meta property='og:title' content='Копирование системы BAD в BAS'>
+<meta property='og:description' content='Шаги подготовки TBD
+Выполнение Удаляем старый сервер БД HANA2 vhtl2basdb01:/hana/shared/BAS/hdblcm # ./hdblcm SAP HANA Lifecycle Management - SAP HANA Database 2.00.037.01.1557479495 ************************************************************************ Choose an action Index | Action | Description ------------------------------------------------------------------------------------------- 1 | add_host_roles | Add Host Roles 2 | add_hosts | Add Hosts to the SAP HANA Database System 3 | check_installation | Check SAP HANA Database Installation 4 | configure_internal_network | Configure Inter-Service Communication 5 | configure_sld | Configure System Landscape Directory Registration 6 | extract_components | Extract Components 7 | print_component_list | Print Component List 8 | remove_host_roles | Remove Host Roles 9 | rename_system | Rename the SAP HANA Database System 10 | uninstall | Uninstall SAP HANA Database Components 11 | unregister_system | Unregister the SAP HANA Database System 12 | update_component_list | Update Component List 13 | update_components | Install or Update Additional Components 14 | update_host | Update the SAP HANA Database Instance Host integration 15 | update | Update the SAP HANA Database System 16 | exit | Exit (do nothing) Enter selected action index [16]: Choose components to be uninstalled for system &amp;#39;BAS&amp;#39;: Index | Components | Description ---------------------------------------------------------------------------------------------- 1 | all | SAP HANA Database version 2.'>
+<meta property='og:url' content='https://example.com/p/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-bad-%D0%B2-bas/'>
+<meta property='og:site_name' content='SAP, IT and all'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2022-06-14T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2022-06-14T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Копирование системы BAD в BAS">
+<meta name="twitter:description" content="Шаги подготовки TBD
+Выполнение Удаляем старый сервер БД HANA2 vhtl2basdb01:/hana/shared/BAS/hdblcm # ./hdblcm SAP HANA Lifecycle Management - SAP HANA Database 2.00.037.01.1557479495 ************************************************************************ Choose an action Index | Action | Description ------------------------------------------------------------------------------------------- 1 | add_host_roles | Add Host Roles 2 | add_hosts | Add Hosts to the SAP HANA Database System 3 | check_installation | Check SAP HANA Database Installation 4 | configure_internal_network | Configure Inter-Service Communication 5 | configure_sld | Configure System Landscape Directory Registration 6 | extract_components | Extract Components 7 | print_component_list | Print Component List 8 | remove_host_roles | Remove Host Roles 9 | rename_system | Rename the SAP HANA Database System 10 | uninstall | Uninstall SAP HANA Database Components 11 | unregister_system | Unregister the SAP HANA Database System 12 | update_component_list | Update Component List 13 | update_components | Install or Update Additional Components 14 | update_host | Update the SAP HANA Database Instance Host integration 15 | update | Update the SAP HANA Database System 16 | exit | Exit (do nothing) Enter selected action index [16]: Choose components to be uninstalled for system &amp;#39;BAS&amp;#39;: Index | Components | Description ---------------------------------------------------------------------------------------------- 1 | all | SAP HANA Database version 2.">
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Показать/скрыть меню">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">SAP, IT and all</a></h1>
+            <h2 class="site-description">Just another SAP Basis blog.</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+                <li id="i18n-switch">  
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                    <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
+                        
+                            <option value="https://example.com/" selected>Русский</option>
+                        
+                            <option value="https://example.com/en/" >English</option>
+                        
+                            <option value="https://example.com/zh-cn/" >中文</option>
+                        
+                            <option value="https://example.com/ar/" >عربي</option>
+                        
+                    </select>
+                </li>
+            
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Тёмный режим</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+<main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-bad-%D0%B2-bas/">Копирование системы BAD в BAS</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Jun 14, 2022</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    Время чтения: 7 мин.
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+</header>
+
+    <section class="article-content">
+    
+    
+    <div class="sect1">
+<h2 id="_шаги_подготовки">Шаги подготовки</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>TBD</strong></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_выполнение">Выполнение</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_удаляем_старый_сервер_бд_hana2">Удаляем старый сервер БД HANA2</h3>
+<div class="listingblock">
+<div class="title">vhtl2basdb01:/hana/shared/BAS/hdblcm # ./hdblcm</div>
+<div class="content">
+<pre>SAP HANA Lifecycle Management - SAP HANA Database 2.00.037.01.1557479495
+************************************************************************
+
+
+
+Choose an action
+
+  Index | Action                     | Description
+  -------------------------------------------------------------------------------------------
+  1     | add_host_roles             | Add Host Roles
+  2     | add_hosts                  | Add Hosts to the SAP HANA Database System
+  3     | check_installation         | Check SAP HANA Database Installation
+  4     | configure_internal_network | Configure Inter-Service Communication
+  5     | configure_sld              | Configure System Landscape Directory Registration
+  6     | extract_components         | Extract Components
+  7     | print_component_list       | Print Component List
+  8     | remove_host_roles          | Remove Host Roles
+  9     | rename_system              | Rename the SAP HANA Database System
+  10    | uninstall                  | Uninstall SAP HANA Database Components
+  11    | unregister_system          | Unregister the SAP HANA Database System
+  12    | update_component_list      | Update Component List
+  13    | update_components          | Install or Update Additional Components
+  14    | update_host                | Update the SAP HANA Database Instance Host integration
+  15    | update                     | Update the SAP HANA Database System
+  16    | exit                       | Exit (do nothing)
+
+Enter selected action index [16]:
+
+Choose components to be uninstalled for system &#39;BAS&#39;:
+  Index | Components | Description
+  ----------------------------------------------------------------------------------------------
+  1     | all        | SAP HANA Database version 2.00.037.01.1557479495 and all other components
+  2     | client     | Uninstall SAP HANA Database Client version 2.3.134.1546872976
+
+Enter comma-separated list of the selected indices [1]:
+
+Summary before execution:
+=========================
+
+SAP HANA Database System Uninstallation
+   Software Components
+      SAP HANA Database Client
+         Uninstall version 2.3.134.1546872976
+      SAP HANA Database
+         Uninstall version 2.00.037.01.1557479495
+
+Note: All data volumes and all log volumes of SAP HANA Database &#39;BAS&#39; will be removed!
+
+Do you want to continue? (y/n): y
+
+Uninstalling SAP HANA Database System
+Unregistering SAP HANA Database Components on Local Host...
+  Uninstalling SAP HANA Database Client...
+    Uninstalling SAP HANA Database Client...
+    Uninstalling package Client Installer...
+    Uninstalling package Environment Script...
+    Uninstalling package CommonCryptoLib...
+    Uninstalling package Ruby Client...
+    Uninstalling package golang Client...
+    Uninstalling package node.js Client...
+    Uninstalling package DBCAPI...
+    Uninstalling package HALM Client...
+    Uninstalling package JDBC...
+    Uninstalling package ODBC...
+    Uninstalling package Python DB API...
+    Uninstalling package REPOTOOLS...
+    Uninstalling package SQLDBC...
+    Uninstalling package Product Manifest...
+    Uninstalling package Python Runtime...
+  Uninstalling SAP HANA Database...
+    Uninstalling SAP HANA Database...
+    Removing SAP HANA Database instance...
+    Uninstalling package DAT Configfiles (other)...
+    Uninstalling package DAT Configfiles (EN, DE)...
+    Uninstalling package DAT Languages (other)...
+    Uninstalling package DAT Languages (EN, DE)...
+    Uninstalling package Offline Cockpit...
+    Uninstalling package Delivery Units...
+    Uninstalling package Documentation...
+    Uninstalling package EPM...
+    Uninstalling package HWCCT...
+    Uninstalling package Ini Files...
+    Uninstalling package Installer...
+    Uninstalling package Krb5 Runtime...
+    Uninstalling package Data Quality...
+    Uninstalling package Binaries...
+    Uninstalling package Product Manifest...
+    Uninstalling package Python Runtime...
+    Uninstalling package Python Support...
+    Uninstalling package Saphostagent Setup...
+Uninstallation of the SAP HANA Database System finished
+Log file written to &#39;/var/tmp/hdb_BAS_hdblcm_uninstall_2020-02-18_10.30.39/hdblcm.log&#39; on host &#39;vhtl2basdb01&#39;.</pre>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_готовим_экспорт_бд_bad">Готовим экспорт БД BAD</h3>
+<div class="listingblock">
+<div class="content">
+<pre>vhtl2basdb01:/hana/shared # scp -rp root@vhtl2baddb01:/hana/shared/distr/export ./
+
+vhtl2basdb01:/hana/shared # scp -rp root@vhtl2baddb01:/hana/shared/distr/SAP_HANA_DATABASE ./
+
+vhtl2basdb01:/hana/shared/distr # ll
+total 529552
+drwxr-xr-x 3 root root       108 Mar 22  2018 122.16_distr
+drwxr-xr-x 8 root root      4096 Mar  9  2018 SAP_HANA_DATABASE
+-rw-r--r-- 1 root root 542256595 Feb 18 10:59 SWPM10SP28_0-20009701.SAR
+drwxr-xr-x 3 root root        36 Feb 18 10:42 export</pre>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_установка_hana1">Установка HANA1</h4>
+<div class="listingblock">
+<div class="content">
+<pre>vhtl2basdb01:/hana/shared/distr/SAP_HANA_DATABASE # ./hdblcm
+
+
+SAP HANA Lifecycle Management - SAP HANA 1.00.122.16.1520578817
+***************************************************************
+
+
+Scanning Software Locations...
+Detected components:
+    SAP HANA Database (1.00.122.16.1520578817) in /hana/shared/distr/SAP_HANA_DATABASE/server
+
+
+
+Choose installation
+
+  Index | System             | Database Properties
+  ------------------------------------------------
+  1     | Install new system |
+        |                    |
+  2     | Extract components |
+  3     | Exit (do nothing)  |
+
+Enter selected system index [3]: 1
+
+Enter Installation Path [/hana/shared]:
+Enter Local Host Name [vhtl2basdb01]:
+Do you want to add additional hosts to the system? (y/n) [n]:
+Enter SAP HANA System ID: BAS
+Enter Instance Number [00]:
+
+  Index | Database Mode       | Description
+  -----------------------------------------------------------------------------------------------
+  1     | single_container    | The system contains one database
+  2     | multiple_containers | The system contains one system database and 1..n tenant databases
+
+Select Database Mode / Enter Index [1]:
+
+  Index | System Usage | Description
+  -------------------------------------------------------------------------------
+  1     | production   | System is used in a production environment
+  2     | test         | System is used for testing, not production
+  3     | development  | System is used for development, not production
+  4     | custom       | System usage is neither production, test nor development
+
+Select System Usage / Enter Index [4]: 3
+Enter Location of Data Volumes [/hana/data/BAS]:
+Enter Location of Log Volumes [/hana/log/BAS]:
+Restrict maximum memory allocation? [n]:
+Enter Certificate Host Name For Host &#39;vhtl2basdb01&#39; [vhtl2basdb01]:
+Enter System Administrator (basadm) Password:
+Confirm System Administrator (basadm) Password:
+Enter System Administrator Home Directory [/usr/sap/BAS/home]:
+Enter System Administrator Login Shell [/bin/sh]:
+Enter System Administrator User ID [1000]:
+Enter Database User (SYSTEM) Password:
+Confirm Database User (SYSTEM) Password:
+Restart system after machine reboot? [n]:
+
+Summary before execution:
+=========================
+
+SAP HANA Components Installation
+   Installation Parameters
+      Remote Execution: ssh
+      Installation Path: /hana/shared
+      Local Host Name: vhtl2basdb01
+      SAP HANA System ID: BAS
+      Instance Number: 00
+      Database Mode: single_container
+      System Usage: development
+      Location of Data Volumes: /hana/data/BAS
+      Location of Log Volumes: /hana/log/BAS
+      Certificate Host Names: vhtl2basdb01 -&gt; vhtl2basdb01
+      System Administrator Home Directory: /usr/sap/BAS/home
+      System Administrator Login Shell: /bin/sh
+      System Administrator User ID: 1000
+      ID of User Group (sapsys): 1001
+   Software Components
+      SAP HANA Database
+         Install version 1.00.122.16.1520578817
+         Location: /hana/shared/distr/SAP_HANA_DATABASE/server
+
+Do you want to continue? (y/n): y
+
+Installing components...
+Installing SAP HANA Database...
+  Preparing package &#39;Saphostagent Setup&#39;...
+  Preparing package &#39;Python Support&#39;...
+  Preparing package &#39;Python Runtime&#39;...
+  Preparing package &#39;Product Manifest&#39;...
+  Preparing package &#39;Binaries&#39;...
+  Preparing package &#39;Data Quality&#39;...
+  Preparing package &#39;Krb5 Runtime&#39;...
+  Preparing package &#39;Installer&#39;...
+  Preparing package &#39;Ini Files&#39;...
+  Preparing package &#39;HWCCT&#39;...
+  Preparing package &#39;Emergency Support Package&#39;...
+  Preparing package &#39;EPM&#39;...
+  Preparing package &#39;Documentation&#39;...
+  Preparing package &#39;Delivery Units&#39;...
+  Preparing package &#39;DAT Languages&#39;...
+  Preparing package &#39;DAT Configfiles&#39;...
+  Creating System...
+  Extracting software...
+  Installing package &#39;Saphostagent Setup&#39;...
+  Installing package &#39;Python Support&#39;...
+  Installing package &#39;Python Runtime&#39;...
+  Installing package &#39;Product Manifest&#39;...
+  Installing package &#39;Binaries&#39;...
+  Installing package &#39;Data Quality&#39;...
+  Installing package &#39;Krb5 Runtime&#39;...
+  Installing package &#39;Installer&#39;...
+  Installing package &#39;Ini Files&#39;...
+  Installing package &#39;HWCCT&#39;...
+  Installing package &#39;Emergency Support Package&#39;...
+  Installing package &#39;EPM&#39;...
+  Installing package &#39;Documentation&#39;...
+  Installing package &#39;Delivery Units&#39;...
+  Installing package &#39;DAT Languages&#39;...
+  Installing package &#39;DAT Configfiles&#39;...
+  Creating instance...
+  Starting SAP HANA Database system...
+  Starting 7 processes on host &#39;vhtl2basdb01&#39; (worker):
+      Starting on &#39;vhtl2basdb01&#39;: hdbcompileserver, hdbdaemon, hdbindexserver, hdbnameserver, hdbpreprocessor, hdbwebdispatcher, hdbxsengine
+      Starting on &#39;vhtl2basdb01&#39;: hdbcompileserver, hdbdaemon, hdbindexserver, hdbpreprocessor, hdbwebdispatcher, hdbxsengine
+      Starting on &#39;vhtl2basdb01&#39;: hdbdaemon, hdbindexserver, hdbwebdispatcher, hdbxsengine
+      Starting on &#39;vhtl2basdb01&#39;: hdbdaemon, hdbwebdispatcher, hdbxsengine
+      Starting on &#39;vhtl2basdb01&#39;: hdbdaemon, hdbwebdispatcher
+    All server processes started on host &#39;vhtl2basdb01&#39; (worker).
+  Importing delivery units...
+  Importing delivery unit HCO_INA_SERVICE
+  Importing delivery unit HANA_DT_BASE
+  Importing delivery unit HANA_IDE_CORE
+  Importing delivery unit HANA_TA_CONFIG
+  Importing delivery unit HANA_UI_INTEGRATION_SVC
+  Importing delivery unit HANA_UI_INTEGRATION_CONTENT
+  Importing delivery unit HANA_XS_BASE
+  Importing delivery unit HANA_XS_DBUTILS
+  Importing delivery unit HANA_XS_EDITOR
+  Importing delivery unit HANA_XS_IDE
+  Importing delivery unit HANA_XS_LM
+  Importing delivery unit HDC_ADMIN
+  Importing delivery unit HDC_BACKUP
+  Importing delivery unit HDC_IDE_CORE
+  Importing delivery unit HDC_SEC_CP
+  Importing delivery unit HDC_XS_BASE
+  Importing delivery unit HDC_XS_LM
+  Importing delivery unit SAPUI5_1
+  Importing delivery unit SAP_WATT
+  Importing delivery unit HANA_BACKUP
+  Importing delivery unit HANA_HDBLCM
+  Importing delivery unit HANA_SEC_BASE
+  Importing delivery unit HANA_SEC_CP
+  Importing delivery unit HANA_ADMIN
+  Importing delivery unit HANA_WKLD_ANLZ
+Installing Resident hdblcm...
+Updating SAP HANA Instance Integration on Local Host...
+  Deploying SAP Host Agent configurations...
+Creating Component List...
+SAP HANA system installed
+
+Note: Deployment of SAP Host Agent configurations finished with errors
+
+You can send feedback to SAP with this form: https://vhtl2basdb01:1129/lmsl/HDBLCM/BAS/feedback/feedback.html
+Log file written to &#39;/var/tmp/hdb_BAS_hdblcm_install_2020-02-18_13.19.35/hdblcm.log&#39; on host &#39;vhtl2basdb01&#39;.</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_запуск_процесса_импорта_бд">Запуск процесса импорта БД</h3>
+<div class="paragraph">
+<p>Ошибка сертифката<br/>
+<span class="image"><img src="img/HANA_system_copy_1.png" alt="HANA system copy" width="800"/></span><br/>
+Учетные данные root<br/>
+<span class="image"><img src="img/HANA_system_copy_2.png" alt="HANA system copy" width="800"/></span><br/>
+Сецнарий копирования<br/>
+<span class="image"><img src="img/HANA_system_copy_3.png" alt="HANA system copy" width="800"/></span><br/>
+Расшиеренные опции<br/>
+<span class="image"><img src="img/HANA_system_copy_4.png" alt="HANA system copy" width="800"/></span><br/>
+Профиль системы<br/>
+<span class="image"><img src="img/HANA_system_copy_5.png" alt="HANA system copy" width="800"/></span><br/></p>
+</div>
+<div class="sect3">
+<h4 id="_корректировка_uid_и_gid">Корректировка UID и GID</h4>
+<div class="paragraph">
+<p>UID и GID у пользователей &lt;sid&gt;adm отличались у сервера CI и DB, потребовалось выравнивание.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>groupmod -g 1000 sapinst
+groupmod -g 1001 sapsys
+
+find /sys /etc/ hana /var /usr/sap/ /home /run -group 1001 -exec chgrp -h sapinst {} \; +
+
+find /sys /etc/ hana /var /usr/sap/ /home /run -group 79 -exec chgrp -h sapsys {} \; +</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Порт Message Server<br/>
+<span class="image"><img src="img/HANA_system_copy_6.png" alt="HANA system copy" width="800"/></span><br/>
+Мастер пароль<br/>
+<span class="image"><img src="img/HANA_system_copy_7.png" alt="HANA system copy" width="800"/></span><br/>
+Пользователь&lt;sid&gt;adm<br/>
+<span class="image"><img src="img/HANA_system_copy_8.png" alt="HANA system copy" width="800"/></span><br/>
+FQDN<br/>
+<span class="image"><img src="img/HANA_system_copy_9.png" alt="HANA system copy" width="800"/></span><br/>
+Метод копирования<br/>
+<span class="image"><img src="img/HANA_system_copy_10.png" alt="HANA system copy" width="800"/></span><br/>
+Целевая DB<br/>
+<span class="image"><img src="img/HANA_system_copy_11.png" alt="HANA system copy" width="800"/></span><br/>
+Дистрибутивы SAP Kernel<br/>
+<span class="image"><img src="img/HANA_system_copy_12.png" alt="HANA system copy" width="800"/></span><br/>
+<span class="image"><img src="img/HANA_system_copy_13.png" alt="HANA system copy" width="800"/></span><br/>
+Директория экспорта<br/>
+<span class="image"><img src="img/HANA_system_copy_14.png" alt="HANA system copy" width="800"/></span><br/>
+Администратор DB<br/>
+<span class="image"><img src="img/HANA_system_copy_15.png" alt="HANA system copy" width="800"/></span><br/>
+Схема DBACOCKPIT<br/>
+<span class="image"><img src="img/HANA_system_copy_16.png" alt="HANA system copy" width="800"/></span><br/>
+Схема ABAP (SAPBAS)<br/>
+<span class="image"><img src="img/HANA_system_copy_17.png" alt="HANA system copy" width="800"/></span><br/>
+Настройка Secure Storage<br/>
+<span class="image"><img src="img/HANA_system_copy_18.png" alt="HANA system copy" width="800"/></span><br/>
+Содинение SAPControl<br/>
+<span class="image"><img src="img/HANA_system_copy_19.png" alt="HANA system copy" width="800"/></span><br/>
+Параметры импорта HANA<br/>
+<span class="image"><img src="img/HANA_system_copy_20.png" alt="HANA system copy" width="800"/></span><br/>
+Выполнение отчета SMIGR_CREATE_DDL<br/>
+<span class="image"><img src="img/HANA_system_copy_21.png" alt="HANA system copy" width="800"/></span><br/>
+<span class="image"><img src="img/HANA_system_copy_22.png" alt="HANA system copy" width="800"/></span><br/>
+Настройка Table Placement<br/>
+<span class="image"><img src="img/HANA_system_copy_23.png" alt="HANA system copy" width="800"/></span><br/>
+Настройка параметров импорта<br/>
+<span class="image"><img src="img/HANA_system_copy_24.png" alt="HANA system copy" width="800"/></span><br/>
+Параметры Migration Monitor<br/>
+<span class="image"><img src="img/HANA_system_copy_25.png" alt="HANA system copy" width="800"/></span><br/>
+Действия перед стартом<br/>
+<span class="image"><img src="img/HANA_system_copy_26.png" alt="HANA system copy" width="800"/></span><br/>
+Пароль DDIC в 000 манданте исходной системы<br/>
+<span class="image"><img src="img/HANA_system_copy_27.png" alt="HANA system copy" width="800"/></span><br/>
+Удаление пользователей ОС<br/>
+<span class="image"><img src="img/HANA_system_copy_28.png" alt="HANA system copy" width="800"/></span><br/>
+Страница итогов<br/>
+<span class="image"><img src="img/HANA_system_copy_29.png" alt="HANA system copy" width="800"/></span> +</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_процесс_импорт">Процесс импорт</h4>
+<div class="paragraph">
+<p><span class="image"><img src="img/HANA_system_copy_30.png" alt="HANA system copy" width="800"/></span><br/></p>
+</div>
+<div class="paragraph">
+<p>Также в процессе потребовалось включить логи в режим overwrite</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_дополнительно">Дополнительно</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>SAP, IT and all</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2015 - 
+        
+        2023 SAP, IT and all
+    </section>
+    
+    <section class="powerby">
+        Создано при помощи <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Тема <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.12.0">Stack</a></b>, дизайн <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+    
+
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

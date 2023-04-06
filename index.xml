@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>SAP, IT and all</title>
+        <link>https://example.com/</link>
+        <description>Recent content on SAP, IT and all</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;h2 id=&#34;gyulumyants-boris&#34;&gt;Gyulumyants Boris&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;SAP Basis Administrator / Team Lead&lt;/em&gt;
+[horizontal] 
+image:DSC_0014.JPG[Me,200,role=left]::
+Over 12 years of implementing and supporting SAP Landscapes +
+SAP Modules - BASIS, Solution Manager +
+Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Installing and administration of SAP Software in any combination of OS/DB
+** OS: Windows, SLES, RHEL, AIX, HP-UX, Solaris
+** DB: HANA 1.0/2.0, Oracle, Sybase ASE/IQ, MS SQL Server, MaxDB, IBM DB2&lt;/li&gt;
+&lt;li&gt;Participation in SAP projects at all phases of the project life cycle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+Day of birth:: 22.09.1984
+Citizenship:: Russian Federation&lt;/p&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+mob::    +90 (507) 488-13-41 +
+email::  mailto:boris.gyulumyants@gmail.com[boris.gyulumyants@gmail.com]  + 
+site::   &lt;a class=&#34;link&#34; href=&#34;https://itandall.wordpress.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://itandall.wordpress.com&lt;/a&gt;[] +
+LinkedIn:: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.linkedin.com/in/&lt;/a&gt;⚙-boris-guylumyants-592a3821[https://www.linkedin.com] + &lt;br&gt;
+Skype:: i7paktukaht +&lt;/p&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+Russian:: Native
+English:: Intermediate&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+Unfinished degree::
+Kazan National Research Technical University named after A.N. Tupolev, Kazan +
+Faculty:: Computer Technology and Information Security+
+Specialty:: Software for Computer Science and Automated Systems&lt;/p&gt;
+&lt;h2 id=&#34;coursescertifications&#34;&gt;Courses/Certifications&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+2011::
+~Microsoft~::
+Install,conf &amp;amp; administering MS Windows XP Professional (070-270) +
+~SAP~::
+Level 2 SAP Certified Support Consultant (C_PXSUP_90) +
+2012::
+~SAP~::
+System and Database Administration: Adaptive Server Enterprise (EDB 356) +&lt;br&gt;
+Security in SAP System Environment (ADM960) +&lt;br&gt;
+SAP System Monitoring Using CCMS II (ADM107) +
+~2020~::
+Open Education platform::
+Project Management basics
+2019-2022::
+~OpenSap~::
+Key Technical Topics in a System Conversion to SAP S/4HANA +
+Intelligent Enterprise User Experience with SAP Fiori 3 +
+SAP Landscape Automation with Ansible &amp;amp; Red Hat Enterprise Linux +	
+SAP Enable Now Framework +
+Agile Project Delivery with Focused Build for SAP Solution Manager +
+Need SAP HANA Running 24/7? Challenge Accepted! +
+Virtualize and Automate Your SAP Testing Using Int4 IFTT +
+Say Goodbye to Downtime with SUSE Linux Enterprise Server +
+Getting Started with SAP Model Company +
+Build Mobile Applications with SAP Cloud Platform* Mobile Services +
+Python for Beginners +
+SAP Data Intelligence for Enterprise AI +
+Introduction to SUSE Linux Enterprise Server +&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+BASIS::&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing the BASIS team, assessing and distributing tasks, supervising the employment of employees, interviewing candidates, developing the BASIS internship program +&lt;/li&gt;
+&lt;li&gt;Design of system landscape architecture, installation of SAP software products (ERP, BI, HANA, CRM, BCM, BOBJ, BPC, Solution Manager, Content Server)&lt;/li&gt;
+&lt;li&gt;Homogeneous and heterogeneous copying&lt;/li&gt;
+&lt;li&gt;Monitoring (operation of SAP servers and instances, background jobs, SAP processes, analysis of ABAP dumps)&lt;/li&gt;
+&lt;li&gt;Management of Oracle, SAP HANA, MS SQL, DB2, MaxDB, Sybase ASE databases (adjustment and monitoring of backup data, troubleshooting DB performance)&lt;/li&gt;
+&lt;li&gt;Installation of system updates (SAP Notes, Support packages, SPS, EHP).&lt;/li&gt;
+&lt;li&gt;Security management, Security Notes, SSO, SSL.
+Solution Manager::&lt;/li&gt;
+&lt;li&gt;ITSM, ChaRM, SLD, LMDB, EWA.
+Other::&lt;/li&gt;
+&lt;li&gt;Writing technical documentation, reports, user manuals. +&lt;/li&gt;
+&lt;li&gt;Maintenance of systems, users (s-user) and support tickets, installations on SAP Support Launchpad +&lt;/li&gt;
+&lt;li&gt;Was one of the key contacts of the company in the partnership with SAP (confirmation of VAR Partner status, PCoE, license audit of the customers, s-user support, systems, installations, cooperation with SAP AG Support on non-typical issues) +&lt;/li&gt;
+&lt;li&gt;Participation in Presale activities of the company in the part of the sap basis +&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;p&gt;[horizontal]
+12.2021 - present time:: 
+Teamidea Group LLC, Moscow +
+SAP BASIS Team Lead +&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing the BASIS team, assessing and distributing tasks, supervising the employment of employees, mentoring, interviewing candidates&lt;/li&gt;
+&lt;li&gt;Leading BASIS team on a support projects of company&lt;/li&gt;
+&lt;li&gt;Writing bash scripts for Database backup and recoverty via Veritas Netbackup
+12.2020 - 12.2021:: 
+Unicon Business Solutions, Moscow +
+SAP BASIS Senior Administrator +&lt;/li&gt;
+&lt;li&gt;Leading BASIS team on a two S/4HANA implementation projects in biggest gas manufacturer in Russia
+12.2018 - 12.2020:: 
+Technoserv Consulting, Moscow +
+SAP BASIS Expert&lt;/li&gt;
+&lt;li&gt;Key BASIS team member on a several project of managing SAP System Landscape&lt;/li&gt;
+&lt;li&gt;Leading BASIS team on a S/4HANA implementation project in TOP3 bank in Russia
+09.2013 - 12.2018:: 
+Unicon Application Outsourcing, Moscow +
+SAP BASIS Administrator / SAP BASIS Senior Administrator+&lt;/li&gt;
+&lt;li&gt;Participating in support/implementation pojects as BASIS team member / BASIS team lead&lt;/li&gt;
+&lt;li&gt;Was one of the key contacts of the company in the partnership with SAP (confirmation of VAR Partner status, PCoE, license audit of the customers, s-user support, systems, installations, cooperation with SAP AG Support on non-typical issues)&lt;/li&gt;
+&lt;li&gt;Participating in ITSM implementation project as SAP Solution Manager team lead
+06.2012 - 03.2013:: 
+Terra Consulting, Kazan +
+SAP BASIS Administrator +&lt;/li&gt;
+&lt;li&gt;Successfully implemented SAP BCM(SAP Contact Center) telephony solution in integration with SAP CRM
+04.2010 - 06.2012:: 
+Rede Consulting, Kazan +
+SAP BASIS Administrator +&lt;/li&gt;
+&lt;li&gt;Started career as SAP BASIS administrator&lt;/li&gt;
+&lt;li&gt;Successfully implemented SAP BCM(SAP Contact Center) telephony solution in integration with SAP CRM
+05.2008 - 04.2010:: 
+OJSC Santekhpribor, Moscow +
+System Administrator +&lt;/li&gt;
+&lt;li&gt;Was responsible for the maintenance of software and hardware of the computer equipment of the enterprise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-experience&#34;&gt;Project Experience&lt;/h2&gt;
+&lt;p&gt;[horizontal,labelwidth=25]
+10.2021 – present time:: 
+&lt;em&gt;Tele2 LLC, Moscow, Russian Federation&lt;/em&gt; +
+&lt;em&gt;Sberlogistics LLC, Moscow, Russian Federation&lt;/em&gt; +
+&lt;em&gt;PJSC Cherkizovo Group, Moscow, Russian Federation&lt;/em&gt; +
+~Project~:: Management of SAP landscape
+~Role~:: SAP Basis Team Lead
+~Tasks~::&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading the BASIS team on a support project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;12.2020 – 10.2021:: 
+&lt;em&gt;PJSC Gazprom, Moscow, Russian Federation&lt;/em&gt; +
+~Project~:: Development of an automated system Consolidated Statements PJSC Gazprom (ASKO) / Development of an automated accounting and settlement system for gas (IUS BUIRG)
+~Role~:: SAP Basis Team Lead
+~Tasks~::&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading the BASIS team on an implementation project&lt;/li&gt;
+&lt;li&gt;Development of project documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;03.2020 – 12.2020:: 
+&lt;em&gt;VTB PJSC, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Implementation of the SAP S/4HANA
+~Role~:: SAP Basis Team Lead
+~Tasks~::
+•	Leading the BASIS team on an implementation project
+•	Developing a concept of roles and authority
+•	Development of project documentation&lt;/p&gt;
+&lt;p&gt;12.2018 – 02.2020:: 
+&lt;em&gt;Tele2 LLC, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Management of SAP landscape
+~Task~::
+•	Maintaining the systems landscape as a 3L support for the BASIS module&lt;/p&gt;
+&lt;p&gt;12.2018 – 11.2019:: 
+&lt;em&gt;NLMK PJSC, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Management of SAP landscape
+~Tasks~::
+•	Maintaining the systems landscape as a 3L support for the BASIS module&lt;/p&gt;
+&lt;p&gt;08.2018 – 12.2018::
+&lt;em&gt;PJSC “MMC “Norilsk Nickel”, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: SAP ERP Template Development and Replication
+~Role~:: SAP Solution Manager Consultant
+~Tasks~::
+•	Setting up a ChaRM prototype in the SAP SM system
+•	Development of project documentation&lt;/p&gt;
+&lt;p&gt;05.2017 – 11.2017:: 
+&lt;em&gt;OJSC ILIM Group, St. Petersburg, Russian Federation&lt;/em&gt;
+~Project~:: Creation of a Single Call Center based on SAP Solution Manager
+~Role~:: Functional Architect
+~Tasks~::
+•	Development of the functional architecture of the solution
+•	Managing a team of Solution Manager consultants
+•	Development of project documentation&lt;/p&gt;
+&lt;p&gt;~Project~:: Upgrade SAP Solution Manager 7.1 to 7.2
+~Tasks~::
+•	Performing a technical upgrade of the system
+•	Setting up Incident Management solution&lt;/p&gt;
+&lt;p&gt;09.2013 – 12.2016::
+&lt;em&gt;MOESK OJSC, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: SAP landscape support
+~Tasks~::
+•	Leading the BASIS team on the project&lt;/p&gt;
+&lt;p&gt;08.2015 – 10.2015::
+&lt;em&gt;Pasha Bolding, Baku, Azerbaijan&lt;/em&gt;
+~Project~:: Implementation of incident management system based on SAP Solution Manager 
+~Tasks~::
+•	Implementing and customizing the ITSM system based on the existing SAP SM system&lt;/p&gt;
+&lt;p&gt;06.2015 – 10.2015::
+&lt;em&gt;Meat Processing Plant &amp;ldquo;Pavlovskaya Sloboda&amp;rdquo; LLC, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Heterogeneous migration of a high availability ERP production system 
+~Tasks~::
+•	Leading the BASIS team on the project&lt;/p&gt;
+&lt;p&gt;01.2014 – 03.2014:: 
+&lt;em&gt;Krasnoyarsk Hydro Power Plant, Krasnoyarsk, Russian Federation&lt;/em&gt;
+~Project~:: Upgrade ERP 6.0 to EHP7
+~Tasks~::
+•	Technical upgrade of the SAP system&lt;/p&gt;
+&lt;p&gt;12.2013 – 01.2014::
+&lt;em&gt;Bank «Sberbank», Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Extension of the existing ERP solution to 2 territorial banks
+~Tasks~::
+•	Participation in the development and implementation of the new roles and authorizations concept&lt;/p&gt;
+&lt;p&gt;10.2013 – 10.2013::
+&lt;em&gt;British American Tobacco, Moscow, Russian Federation&lt;/em&gt;
+~Project~:: Migration of the archive system HR SAP R/3 4.6
+~Tasks~::
+•	Performing a full scope of basis activities on the migration of the system to new hardware&lt;/p&gt;
+&lt;p&gt;06.2012 – 08.2013::
+&lt;em&gt;Bank «Ural Bank of Reconstruction and Development», Ekaterinburg, Russian Federation&lt;/em&gt;
+~Project~:: Implementation of SAP BCM telephony solution
+~Tasks~::
+•	Installation and configuration of SAP BCM systems in the customer&amp;rsquo;s landscape
+•	Integration with telephony system and SAP CRM landscape&lt;/p&gt;
+&lt;p&gt;06.2010 – 06.2012:: 
+&lt;em&gt;Bank «BTA Kazan», Kazan, Russian Federation&lt;/em&gt; 
+~Project~:: Implementation and maintenance of SAP CRM and SAP BCM solutions 
+~Tasks~::
+•	Installation and configuration of SAP CRM and SAP BCM systems
+•	Telephony integration with SAP BCM and SAP CRM
+•	Project documentation development, manuals writing
+•	Basis landscape maintenance&lt;/p&gt;
+&lt;p&gt;06.2011 – 06.2012:: 
+&lt;em&gt;Bank «TatFondBank», Kazan, Russian Federation&lt;/em&gt; 
+~Project~:: SAP BusinessObjects implementation
+~Tasks~::
+•	Installation and configuration SAP BO landscape&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Копирование системы BAD в BAS</title>
+        <link>https://example.com/p/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-bad-%D0%B2-bas/</link>
+        <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-bad-%D0%B2-bas/</guid>
+        <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_шаги_подготовки&#34;&gt;Шаги подготовки&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_выполнение&#34;&gt;Выполнение&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_удаляем_старый_сервер_бд_hana2&#34;&gt;Удаляем старый сервер БД HANA2&lt;/h3&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;title&#34;&gt;vhtl2basdb01:/hana/shared/BAS/hdblcm # ./hdblcm&lt;/div&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;SAP HANA Lifecycle Management - SAP HANA Database 2.00.037.01.1557479495
+************************************************************************
+
+
+
+Choose an action
+
+  Index | Action                     | Description
+  -------------------------------------------------------------------------------------------
+  1     | add_host_roles             | Add Host Roles
+  2     | add_hosts                  | Add Hosts to the SAP HANA Database System
+  3     | check_installation         | Check SAP HANA Database Installation
+  4     | configure_internal_network | Configure Inter-Service Communication
+  5     | configure_sld              | Configure System Landscape Directory Registration
+  6     | extract_components         | Extract Components
+  7     | print_component_list       | Print Component List
+  8     | remove_host_roles          | Remove Host Roles
+  9     | rename_system              | Rename the SAP HANA Database System
+  10    | uninstall                  | Uninstall SAP HANA Database Components
+  11    | unregister_system          | Unregister the SAP HANA Database System
+  12    | update_component_list      | Update Component List
+  13    | update_components          | Install or Update Additional Components
+  14    | update_host                | Update the SAP HANA Database Instance Host integration
+  15    | update                     | Update the SAP HANA Database System
+  16    | exit                       | Exit (do nothing)
+
+Enter selected action index [16]:
+
+Choose components to be uninstalled for system &amp;#39;BAS&amp;#39;:
+  Index | Components | Description
+  ----------------------------------------------------------------------------------------------
+  1     | all        | SAP HANA Database version 2.00.037.01.1557479495 and all other components
+  2     | client     | Uninstall SAP HANA Database Client version 2.3.134.1546872976
+
+Enter comma-separated list of the selected indices [1]:
+
+Summary before execution:
+=========================
+
+SAP HANA Database System Uninstallation
+   Software Components
+      SAP HANA Database Client
+         Uninstall version 2.3.134.1546872976
+      SAP HANA Database
+         Uninstall version 2.00.037.01.1557479495
+
+Note: All data volumes and all log volumes of SAP HANA Database &amp;#39;BAS&amp;#39; will be removed!
+
+Do you want to continue? (y/n): y
+
+Uninstalling SAP HANA Database System
+Unregistering SAP HANA Database Components on Local Host...
+  Uninstalling SAP HANA Database Client...
+    Uninstalling SAP HANA Database Client...
+    Uninstalling package Client Installer...
+    Uninstalling package Environment Script...
+    Uninstalling package CommonCryptoLib...
+    Uninstalling package Ruby Client...
+    Uninstalling package golang Client...
+    Uninstalling package node.js Client...
+    Uninstalling package DBCAPI...
+    Uninstalling package HALM Client...
+    Uninstalling package JDBC...
+    Uninstalling package ODBC...
+    Uninstalling package Python DB API...
+    Uninstalling package REPOTOOLS...
+    Uninstalling package SQLDBC...
+    Uninstalling package Product Manifest...
+    Uninstalling package Python Runtime...
+  Uninstalling SAP HANA Database...
+    Uninstalling SAP HANA Database...
+    Removing SAP HANA Database instance...
+    Uninstalling package DAT Configfiles (other)...
+    Uninstalling package DAT Configfiles (EN, DE)...
+    Uninstalling package DAT Languages (other)...
+    Uninstalling package DAT Languages (EN, DE)...
+    Uninstalling package Offline Cockpit...
+    Uninstalling package Delivery Units...
+    Uninstalling package Documentation...
+    Uninstalling package EPM...
+    Uninstalling package HWCCT...
+    Uninstalling package Ini Files...
+    Uninstalling package Installer...
+    Uninstalling package Krb5 Runtime...
+    Uninstalling package Data Quality...
+    Uninstalling package Binaries...
+    Uninstalling package Product Manifest...
+    Uninstalling package Python Runtime...
+    Uninstalling package Python Support...
+    Uninstalling package Saphostagent Setup...
+Uninstallation of the SAP HANA Database System finished
+Log file written to &amp;#39;/var/tmp/hdb_BAS_hdblcm_uninstall_2020-02-18_10.30.39/hdblcm.log&amp;#39; on host &amp;#39;vhtl2basdb01&amp;#39;.&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_готовим_экспорт_бд_bad&#34;&gt;Готовим экспорт БД BAD&lt;/h3&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;vhtl2basdb01:/hana/shared # scp -rp root@vhtl2baddb01:/hana/shared/distr/export ./
+
+vhtl2basdb01:/hana/shared # scp -rp root@vhtl2baddb01:/hana/shared/distr/SAP_HANA_DATABASE ./
+
+vhtl2basdb01:/hana/shared/distr # ll
+total 529552
+drwxr-xr-x 3 root root       108 Mar 22  2018 122.16_distr
+drwxr-xr-x 8 root root      4096 Mar  9  2018 SAP_HANA_DATABASE
+-rw-r--r-- 1 root root 542256595 Feb 18 10:59 SWPM10SP28_0-20009701.SAR
+drwxr-xr-x 3 root root        36 Feb 18 10:42 export&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_установка_hana1&#34;&gt;Установка HANA1&lt;/h4&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;vhtl2basdb01:/hana/shared/distr/SAP_HANA_DATABASE # ./hdblcm
+
+
+SAP HANA Lifecycle Management - SAP HANA 1.00.122.16.1520578817
+***************************************************************
+
+
+Scanning Software Locations...
+Detected components:
+    SAP HANA Database (1.00.122.16.1520578817) in /hana/shared/distr/SAP_HANA_DATABASE/server
+
+
+
+Choose installation
+
+  Index | System             | Database Properties
+  ------------------------------------------------
+  1     | Install new system |
+        |                    |
+  2     | Extract components |
+  3     | Exit (do nothing)  |
+
+Enter selected system index [3]: 1
+
+Enter Installation Path [/hana/shared]:
+Enter Local Host Name [vhtl2basdb01]:
+Do you want to add additional hosts to the system? (y/n) [n]:
+Enter SAP HANA System ID: BAS
+Enter Instance Number [00]:
+
+  Index | Database Mode       | Description
+  -----------------------------------------------------------------------------------------------
+  1     | single_container    | The system contains one database
+  2     | multiple_containers | The system contains one system database and 1..n tenant databases
+
+Select Database Mode / Enter Index [1]:
+
+  Index | System Usage | Description
+  -------------------------------------------------------------------------------
+  1     | production   | System is used in a production environment
+  2     | test         | System is used for testing, not production
+  3     | development  | System is used for development, not production
+  4     | custom       | System usage is neither production, test nor development
+
+Select System Usage / Enter Index [4]: 3
+Enter Location of Data Volumes [/hana/data/BAS]:
+Enter Location of Log Volumes [/hana/log/BAS]:
+Restrict maximum memory allocation? [n]:
+Enter Certificate Host Name For Host &amp;#39;vhtl2basdb01&amp;#39; [vhtl2basdb01]:
+Enter System Administrator (basadm) Password:
+Confirm System Administrator (basadm) Password:
+Enter System Administrator Home Directory [/usr/sap/BAS/home]:
+Enter System Administrator Login Shell [/bin/sh]:
+Enter System Administrator User ID [1000]:
+Enter Database User (SYSTEM) Password:
+Confirm Database User (SYSTEM) Password:
+Restart system after machine reboot? [n]:
+
+Summary before execution:
+=========================
+
+SAP HANA Components Installation
+   Installation Parameters
+      Remote Execution: ssh
+      Installation Path: /hana/shared
+      Local Host Name: vhtl2basdb01
+      SAP HANA System ID: BAS
+      Instance Number: 00
+      Database Mode: single_container
+      System Usage: development
+      Location of Data Volumes: /hana/data/BAS
+      Location of Log Volumes: /hana/log/BAS
+      Certificate Host Names: vhtl2basdb01 -&amp;gt; vhtl2basdb01
+      System Administrator Home Directory: /usr/sap/BAS/home
+      System Administrator Login Shell: /bin/sh
+      System Administrator User ID: 1000
+      ID of User Group (sapsys): 1001
+   Software Components
+      SAP HANA Database
+         Install version 1.00.122.16.1520578817
+         Location: /hana/shared/distr/SAP_HANA_DATABASE/server
+
+Do you want to continue? (y/n): y
+
+Installing components...
+Installing SAP HANA Database...
+  Preparing package &amp;#39;Saphostagent Setup&amp;#39;...
+  Preparing package &amp;#39;Python Support&amp;#39;...
+  Preparing package &amp;#39;Python Runtime&amp;#39;...
+  Preparing package &amp;#39;Product Manifest&amp;#39;...
+  Preparing package &amp;#39;Binaries&amp;#39;...
+  Preparing package &amp;#39;Data Quality&amp;#39;...
+  Preparing package &amp;#39;Krb5 Runtime&amp;#39;...
+  Preparing package &amp;#39;Installer&amp;#39;...
+  Preparing package &amp;#39;Ini Files&amp;#39;...
+  Preparing package &amp;#39;HWCCT&amp;#39;...
+  Preparing package &amp;#39;Emergency Support Package&amp;#39;...
+  Preparing package &amp;#39;EPM&amp;#39;...
+  Preparing package &amp;#39;Documentation&amp;#39;...
+  Preparing package &amp;#39;Delivery Units&amp;#39;...
+  Preparing package &amp;#39;DAT Languages&amp;#39;...
+  Preparing package &amp;#39;DAT Configfiles&amp;#39;...
+  Creating System...
+  Extracting software...
+  Installing package &amp;#39;Saphostagent Setup&amp;#39;...
+  Installing package &amp;#39;Python Support&amp;#39;...
+  Installing package &amp;#39;Python Runtime&amp;#39;...
+  Installing package &amp;#39;Product Manifest&amp;#39;...
+  Installing package &amp;#39;Binaries&amp;#39;...
+  Installing package &amp;#39;Data Quality&amp;#39;...
+  Installing package &amp;#39;Krb5 Runtime&amp;#39;...
+  Installing package &amp;#39;Installer&amp;#39;...
+  Installing package &amp;#39;Ini Files&amp;#39;...
+  Installing package &amp;#39;HWCCT&amp;#39;...
+  Installing package &amp;#39;Emergency Support Package&amp;#39;...
+  Installing package &amp;#39;EPM&amp;#39;...
+  Installing package &amp;#39;Documentation&amp;#39;...
+  Installing package &amp;#39;Delivery Units&amp;#39;...
+  Installing package &amp;#39;DAT Languages&amp;#39;...
+  Installing package &amp;#39;DAT Configfiles&amp;#39;...
+  Creating instance...
+  Starting SAP HANA Database system...
+  Starting 7 processes on host &amp;#39;vhtl2basdb01&amp;#39; (worker):
+      Starting on &amp;#39;vhtl2basdb01&amp;#39;: hdbcompileserver, hdbdaemon, hdbindexserver, hdbnameserver, hdbpreprocessor, hdbwebdispatcher, hdbxsengine
+      Starting on &amp;#39;vhtl2basdb01&amp;#39;: hdbcompileserver, hdbdaemon, hdbindexserver, hdbpreprocessor, hdbwebdispatcher, hdbxsengine
+      Starting on &amp;#39;vhtl2basdb01&amp;#39;: hdbdaemon, hdbindexserver, hdbwebdispatcher, hdbxsengine
+      Starting on &amp;#39;vhtl2basdb01&amp;#39;: hdbdaemon, hdbwebdispatcher, hdbxsengine
+      Starting on &amp;#39;vhtl2basdb01&amp;#39;: hdbdaemon, hdbwebdispatcher
+    All server processes started on host &amp;#39;vhtl2basdb01&amp;#39; (worker).
+  Importing delivery units...
+  Importing delivery unit HCO_INA_SERVICE
+  Importing delivery unit HANA_DT_BASE
+  Importing delivery unit HANA_IDE_CORE
+  Importing delivery unit HANA_TA_CONFIG
+  Importing delivery unit HANA_UI_INTEGRATION_SVC
+  Importing delivery unit HANA_UI_INTEGRATION_CONTENT
+  Importing delivery unit HANA_XS_BASE
+  Importing delivery unit HANA_XS_DBUTILS
+  Importing delivery unit HANA_XS_EDITOR
+  Importing delivery unit HANA_XS_IDE
+  Importing delivery unit HANA_XS_LM
+  Importing delivery unit HDC_ADMIN
+  Importing delivery unit HDC_BACKUP
+  Importing delivery unit HDC_IDE_CORE
+  Importing delivery unit HDC_SEC_CP
+  Importing delivery unit HDC_XS_BASE
+  Importing delivery unit HDC_XS_LM
+  Importing delivery unit SAPUI5_1
+  Importing delivery unit SAP_WATT
+  Importing delivery unit HANA_BACKUP
+  Importing delivery unit HANA_HDBLCM
+  Importing delivery unit HANA_SEC_BASE
+  Importing delivery unit HANA_SEC_CP
+  Importing delivery unit HANA_ADMIN
+  Importing delivery unit HANA_WKLD_ANLZ
+Installing Resident hdblcm...
+Updating SAP HANA Instance Integration on Local Host...
+  Deploying SAP Host Agent configurations...
+Creating Component List...
+SAP HANA system installed
+
+Note: Deployment of SAP Host Agent configurations finished with errors
+
+You can send feedback to SAP with this form: https://vhtl2basdb01:1129/lmsl/HDBLCM/BAS/feedback/feedback.html
+Log file written to &amp;#39;/var/tmp/hdb_BAS_hdblcm_install_2020-02-18_13.19.35/hdblcm.log&amp;#39; on host &amp;#39;vhtl2basdb01&amp;#39;.&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect2&#34;&gt;
+&lt;h3 id=&#34;_запуск_процесса_импорта_бд&#34;&gt;Запуск процесса импорта БД&lt;/h3&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Ошибка сертифката&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_1.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Учетные данные root&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_2.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Сецнарий копирования&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_3.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Расшиеренные опции&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_4.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Профиль системы&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_5.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_корректировка_uid_и_gid&#34;&gt;Корректировка UID и GID&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;UID и GID у пользователей &amp;lt;sid&amp;gt;adm отличались у сервера CI и DB, потребовалось выравнивание.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;groupmod -g 1000 sapinst
+groupmod -g 1001 sapsys
+
+find /sys /etc/ hana /var /usr/sap/ /home /run -group 1001 -exec chgrp -h sapinst {} \; +
+
+find /sys /etc/ hana /var /usr/sap/ /home /run -group 79 -exec chgrp -h sapsys {} \; +&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Порт Message Server&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_6.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Мастер пароль&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_7.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Пользователь&amp;lt;sid&amp;gt;adm&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_8.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+FQDN&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_9.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Метод копирования&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_10.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Целевая DB&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_11.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Дистрибутивы SAP Kernel&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_12.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_13.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Директория экспорта&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_14.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Администратор DB&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_15.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Схема DBACOCKPIT&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_16.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Схема ABAP (SAPBAS)&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_17.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Настройка Secure Storage&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_18.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Содинение SAPControl&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_19.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Параметры импорта HANA&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_20.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Выполнение отчета SMIGR_CREATE_DDL&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_21.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_22.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Настройка Table Placement&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_23.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Настройка параметров импорта&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_24.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Параметры Migration Monitor&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_25.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Действия перед стартом&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_26.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Пароль DDIC в 000 манданте исходной системы&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_27.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Удаление пользователей ОС&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_28.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;
+Страница итогов&lt;br/&gt;
+&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_29.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt; +&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_процесс_импорт&#34;&gt;Процесс импорт&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;img/HANA_system_copy_30.png&#34; alt=&#34;HANA system copy&#34; width=&#34;800&#34;/&gt;&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Также в процессе потребовалось включить логи в режим overwrite&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_дополнительно&#34;&gt;Дополнительно&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>Creating SAPRouter systemd daemon</title>
+        <link>https://example.com/p/creating-saprouter-systemd-daemon/</link>
+        <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/creating-saprouter-systemd-daemon/</guid>
+        <description>&lt;p&gt;SAPRouter является важнейшим компонентом системного ландшафта, позволяющим связывать сети клиентов SAP с глобальной сетью поддержки. При помощи SAPRouter можно настроить автоматическую загрузку в систему SAP Notes, а также предоставить доступ в системы специалистам службы поддержки SAP. Чтобы упростить обслуживание SAPRouter запустим его в качестве сервиса операционной системы.&lt;/p&gt;
+&lt;p&gt;В операционных системах *nix для этих целей ранее использовался процесс init, но в последние годы ему на смену пришел systemd &lt;a class=&#34;link&#34; href=&#34;https://ru.wikipedia.org/wiki/Systemd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ru.wikipedia.org/wiki/Systemd&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ниже инструкция по настройке SAProuter как службы(демона) в ОС с systemd (в моем случае это OpenSuse 15.1 ).&lt;/p&gt;
+&lt;p&gt;Загрузить SAPRouter можно с официальной страницы SAP &lt;a class=&#34;link&#34; href=&#34;https://support.sap.com/en/tools/connectivity-tools/saprouter.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.sap.com/en/tools/connectivity-tools/saprouter.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Также потребуется SAPCAR соответствующей архитектуры для распаковки SAR архива.&lt;/p&gt;
+&lt;p&gt;Мне привычнее устанавливать SAPRouter в директорию /usr/sap/saprouter. При необходимости можно сделать внутри разветвленную структуру директорий bin, etc, log, sec, но в моем примере ее не будет.&lt;/p&gt;
+&lt;p&gt;Создадим файл сервиса saprouter.service в /etc/systemd/system/&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Unit]
+Description=SAPRouter Service
+After=network.target 
+
+[Service]
+Type=simple
+WorkingDirectory=/usr/sap/saprouter
+
+User=&amp;lt;user&amp;gt;
+Group=&amp;lt;group&amp;gt;
+
+Environment=&amp;quot;SECUDIR=/usr/sap/saprouter&amp;quot; &amp;quot;SNC_LIB=/sapmnt/SMD/exe/libsapcrypto.so&amp;quot; 
+ExecStart=/usr/sap/saprouter/saprouter -r -R saprouttab -S 3299 -G saprouter.log
+ExecStop=/usr/sap/saprouter/saprouter -s
+ExecReload=/usr/sap/saprouter/saprouter -n
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Checking the status:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;linux-lt2o:~ # systemctl status saprouter
+● saprouter.service - SAPRouter Daemon
+Loaded: loaded (/etc/systemd/system/saprouter.service; disabled; vendor preset: disabled)
+Active: inactive (dead)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Наш сервис деактивирован и выключен. Активируем:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;linux-lt2o:~ # systemctl enable saprouter
+Created symlink /etc/systemd/system/multi-user.target.wants/saprouter.service → /etc/systemd/system/saprouter.service.
+Запустим службу и проверим ее статус
+
+linux-lt2o:~ # systemctl start saprouter
+linux-lt2o:~ # systemctl status saprouter
+● saprouter.service - SAPRouter Daemon
+    Loaded: loaded (/etc/systemd/system/saprouter.service; enabled; vendor preset: disabled)
+    Active: active (running) since Mon 2020-06-29 18:48:00 MSK; 34s ago
+Main PID: 3943 (saprouter)
+    Tasks: 1
+    CGroup: /system.slice/saprouter.service
+        └─3943 /usr/sap/saprouter/saprouter -r -R saprouttab -S 3299 -G saprouter.log
+
+Jun 29 18:48:00 linux-lt2o systemd[1]: Started SAPRouter Daemon.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Также работают команды остановки и перезапуска&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;linux-lt2o:/usr/sap/saprouter # systemctl reload saprouter
+linux-lt2o:/usr/sap/saprouter # systemctl status saprouter
+● saprouter.service - SAPRouter Daemon
+Loaded: loaded (/etc/systemd/system/saprouter.service; enabled; vendor preset: disabled)
+Active: active (running) since Mon 2020-06-29 20:11:03 MSK; 15s ago
+Process: 4312 ExecStop=/usr/sap/saprouter/saprouter -s (code=exited, status=0/SUCCESS)
+Process: 4319 ExecReload=/usr/sap/saprouter/saprouter -n (code=exited, status=0/SUCCESS)
+Main PID: 4315 (saprouter)
+    Tasks: 1
+CGroup: /system.slice/saprouter.service
+        └─4315 /usr/sap/saprouter/saprouter -r -R saprouttab -S 3299 -G saprouter.log
+
+Jun 29 20:11:03 linux-lt2o systemd[1]: Started SAPRouter Daemon.
+Jun 29 20:11:12 linux-lt2o systemd[1]: Reloading SAPRouter Daemon.
+Jun 29 20:11:12 linux-lt2o saprouter[4319]: Mon Jun 29 20:11:12 2020
+Jun 29 20:11:12 linux-lt2o saprouter[4319]: SAP Network Interface Router, Version 40.4
+Jun 29 20:11:13 linux-lt2o saprouter[4319]: Mon Jun 29 20:11:13 2020
+Jun 29 20:11:13 linux-lt2o saprouter[4319]: peer SAProuter with NI version 40 ...
+Jun 29 20:11:13 linux-lt2o saprouter[4319]: send new-routtab-request to running SAProuter ...
+Jun 29 20:11:13 linux-lt2o systemd[1]: Reloaded SAPRouter Daemon.
+linux-lt2o:/usr/sap/saprouter # systemctl stop saprouter
+linux-lt2o:/usr/sap/saprouter # systemctl status saprouter
+● saprouter.service - SAPRouter Daemon
+Loaded: loaded (/etc/systemd/system/saprouter.service; enabled; vendor preset: disabled)
+Active: inactive (dead) since Mon 2020-06-29 20:13:31 MSK; 5s ago
+Process: 4326 ExecStop=/usr/sap/saprouter/saprouter -s (code=exited, status=0/SUCCESS)
+Process: 4319 ExecReload=/usr/sap/saprouter/saprouter -n (code=exited, status=0/SUCCESS)
+Process: 4315 ExecStart=/usr/sap/saprouter/saprouter -r -R saprouttab -S 3299 -G saprouter.log (code=exited, status=0&amp;gt;
+Main PID: 4315 (code=exited, status=0/SUCCESS)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+        <item>
+        <title>Обновление Oracle 12.x до 18c</title>
+        <link>https://example.com/p/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-oracle-12.x-%D0%B4%D0%BE-18c/</link>
+        <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-oracle-12.x-%D0%B4%D0%BE-18c/</guid>
+        <description>&lt;p&gt;Последние несколько лет плотно занимался SAP HANA и с Oracle почти не имел дел. И вот недавно с удивлением обнаружил, что Oracle сменил нумерацию продуктов, за версией 12.2 идет 18c, а за ней 19 (подробнее можно тут почитать &lt;strong&gt;News about the new Oracle Database Release Schedule&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://cutt.ly/myvvJMH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cutt.ly/myvvJMH&lt;/a&gt;). Сразу зачесались руки провести соответствующее обновление. Спойлер: ниже будут только краткие заметки по процедуре, скрины и логи терминала я не сохранял.&lt;/p&gt;
+&lt;p&gt;В работе использовал следующие ноты/гайды:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2540847 — SAP Guides for Oracle Database Upgrade&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upgrade to Oracle Database 18c UNIX&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://cutt.ly/nyvvDC6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cutt.ly/nyvvDC6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Мои заметки по порядку выполнения работ:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Обновляем BRtools и ядро SAP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Распаковываем новый Oracle, &lt;em&gt;db_home&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Устанавливаем Oracle через &lt;em&gt;./RUNINSTALLER&lt;/em&gt; (в процессе было много параметров и проверок)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Проверка наличия пакетов и параметров ядра ОС. В моем случае потребовалось дополнительно установить &lt;em&gt;glibc-devel&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Временно меняем значение переменных окружения на новый &lt;em&gt;ORACLE_HOME&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Останавливаем все БД и сервисы Oracle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Тут можно уже обновлять &lt;em&gt;oracle client&lt;/em&gt; и перевозить &lt;em&gt;listener&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ставим Oracle и SAP Bundle Patches&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Прогоняем pre-upgrade проверки и скрипты&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Удаляем DBA Cocpit view из БД по ноте &lt;strong&gt;706927 — Oracle DB-Mon: Installation script for ST04N or DBACockpit&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Делаем бекап конфигурации &lt;em&gt;listener&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cp -rp admin admin.SAVE.date &amp;quot;+%Y_%m_%d-%H-%M-%S&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Переносим &lt;em&gt;listener&lt;/em&gt; в новый ORACLE_HOME&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Бекапим БД, &lt;em&gt;pfile&lt;/em&gt; и &lt;em&gt;spfile&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;create pfile=&#39;/init.ora.before_upgrade&#39; from spfile;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Для GRP (guaranteed restore point &lt;em&gt;@grp_create_restore_point.sql&lt;/em&gt;) нужно включить &lt;em&gt;media recovery&lt;/em&gt; в Oracle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Меняем параметры &lt;em&gt;alter system&lt;/em&gt; и перезапускаем инстанцию&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Проверка &lt;em&gt;./dbua.sap.sh -q&lt;/em&gt; и запуск &lt;em&gt;./dbua.sap.sh&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SYSDBA Не указываем, пользуемся &lt;em&gt;$OPS&lt;/em&gt; или &lt;em&gt;SSFS&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Меняем окружения, все 121 на 18 в файлах &lt;em&gt;.dbenv.sh&lt;/em&gt; и &lt;em&gt;.dbenv.csh&lt;/em&gt;. Запуск БД в новых окружениях в &lt;em&gt;$HOME&lt;/em&gt; пользователей &lt;em&gt;oracle&lt;/em&gt; и &lt;em&gt;&lt;!-- raw HTML omitted --&gt;adm&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выполняем скрипты постобработки инсталляции Oracle и SAP Bundle Patches&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Перезапуск системы&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Проверка параметров БД по ноте &lt;strong&gt;1171650 — Automated Oracle DB parameter check или 2470718 — Oracle Database Parameter 12.2 / 18c&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Сброс пароля администратора в SAP Business Objects</title>
+        <link>https://example.com/p/%D1%81%D0%B1%D1%80%D0%BE%D1%81-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D0%B2-sap-business-objects/</link>
+        <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%D1%81%D0%B1%D1%80%D0%BE%D1%81-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D0%B2-sap-business-objects/</guid>
+        <description>&lt;p&gt;English*: Manual for SAP BOBj 4.x Administrator password reset &lt;a class=&#34;link&#34; href=&#34;https://answers.sap.com/questions/11690525/reset-bo40-cmc-administrator-password.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;br&gt;
+Продолжаем тему взлома восстановления паролей в системах SAP.
+Наткнулся на интересный способ сброса пароля Administrator в SAP Bobj 4.X . Инструкция по сути не моя, с меня перевод и небольшие корректировки.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;При помощи Central Configuration Manager (CCM) остановите SIA. CCM расположен в &lt;strong&gt;Start &amp;gt; Programs &amp;gt; SAP BusinessObjects Enterprise XI 4.0 &amp;gt; SAP BusinessObjects Enterprise &amp;gt; Central Configuration Manager&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Через командную строку запустите исполняемый файл cms.exe. Добавив следующие параметры и переключатели к :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; «C:\Program Files (x86)\SAP BusinessObjects\SAP BusinessObjects Enterprise XI 4.0\win64_x64\cms.exe» 
+ -loggingPath «C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/logging/» 
+ -port 6400 
+ -restart 
+ -dbinfo «C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/win64_x64/_boe_%ACME%.dbinfo» 
+ -noauditor 
+ -autoboot 
+ -fg 
+ -name %ACME%.cms 
+ —pidfile «C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/serverpids/%ACME%\_%ACME%.CentralManagementServer.pid» 
+ -serverconsole
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;%ACME%&lt;/strong&gt; это имя хоста на котором установлен SAP BI. На всякий случай убедитесь в существовании соответствующих файлов. SIA запустится в консольном режиме. Через некоторое время система выдаст приглашение о готовности к приему команд.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Перейдите в директорию: &lt;em&gt;&amp;lt;BOE_INSTALL_DIR&amp;gt;\SAP BusinessObjects\SAP BusinessObjects Enterprise XI 4.0\dfo&lt;/em&gt; В папке dfo содержится вложенная папка со случайно сгенерированым именем начинающимся на dfo_&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Скопируйте файл &lt;em&gt;BusinessObjects_Administrator_dfo.xml&lt;/em&gt; из директории &lt;em&gt;dfo_&lt;/em&gt; в следующую директорию:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; &amp;lt;BOE_INSTALL_DIR&amp;gt;\SAP BusinessObjects Enterprise XI 4.0\packages
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выполните следующий запрос:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; select si_id from ci_systemobjects where si_name=’Administrator’
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Он возвратит 4 записи.&lt;/p&gt;
+&lt;p&gt;Подсказка: Одна из записей будет иметь значение &lt;em&gt;SI_ID 12&lt;/em&gt;.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Удалите объекты при помощи  команды&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; delete &amp;lt;ID_NUMBER&amp;gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Убедитесь что все объекты были удалены повторно выполнив запрос из шага 5:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; select si_id from ci_systemobjects where si_name=’Administrator’
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ни одного объекта не должны вернуться&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Выполните запрос:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; select si_id from ci_systemobjects where si_name=’BusinessObjects_Administrator_dfo.xml’ 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Она должна вернуть одну запись.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Удалите объект введя следующую команду:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; delete &amp;lt;SI_ID&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Введите quit для выхода и используя CCM запустите SIA.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Теперь вы можете войти в систему под учетной записью администратора оставив поле Password пустым.&lt;/p&gt;
+&lt;p&gt;Опробовал два раза, все работает 🙂&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SE14</title>
+        <link>https://example.com/p/se14/</link>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/se14/</guid>
+        <description>&lt;p&gt;В последнее время везет на задачи, связанные с получением доступа к SAP системам от которых утеряны пароли.&lt;/p&gt;
+&lt;p&gt;Сегодня опишу процесс активации SAP* на системе SAP SM на Sybase ASE при наличии доступа только на уровень ОС. Воспользуемся советами из ноты &lt;a class=&#34;link&#34; href=&#34;http://service.sap.com/sap/support/notes/1872806&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;1872806 — How to set a new password for SA account in Sybase ASE server&lt;/a&gt; , немного изменив их под нашу ситуацию.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Входим на сервер под учетной записью &lt;strong&gt;syb&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;. Под ней прописаны все нужные нам переменные окружения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Останавливаем Sybase.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Нам необходимо найти файл запуска БД по адресу $SYBASE/$SYBASE_ASE/install/RUN_&lt;!-- raw HTML omitted --&gt; и отредактировать его следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  /work/releases/rel16/ASE-16_0/bin/dataserver \
+  -srel16_bret_sun2 \
+  -i/work/releases/rel16 \
+  -N/work/releases/rel16/ASE-16_0/sysam/rel16_bret_sun2.properties \
+  -psapsso -d/work/releases/rel16/data/master.dat \
+  -e/work/releases/rel16/ASE-16_0/install/rel16_bret_sun2.log \
+  -c/work/releases/rel16/ASE-16_0/rel16_bret_sun2.cfg \
+  -M/work/releases/rel16/ASE-16_0 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В ноте скорее всего дается пример файла для ОС *nix, в моем случае на Windows параметр запуска был записан в одну строку. Обратите внимание, что в ноте указано добавление параметр -psa тогда как у меня в тексте -psapsso. Этот параметр генерирует пароль для указанного после литеры p аккаунта, в данном случае администратора БД — sa. Однако обычно, по умолчанию, этот логин заблокирован для входа, поэтому генерация пароля его пароля не позволит нам зайти в систему. Вместо этого мы используем другую УЗ с административными правами sapsso.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Запускаем сервер БД через отредактированный файл. В случае с ОС Windows необходимо запускать командную строку или PowerShell от имени администратора.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В окне терминала/командной строки промелькнет строчка о том, что пароль для указанной нами УЗ sapsso успешно сгенерирован.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  00:0002:00000:00001:2015/11/21 23:03:14.19 server  Completed cleaning up the default data cache for database &#39;sybsystemp
+  rocs&#39;.
+  00:0002:00000:00001:2015/11/21 23:03:14.19 server  Checking external objects.
+  00:0002:00000:00001:2015/11/21 23:03:14.39 server  The transaction log in the database &#39;sybsystemprocs&#39; will use I/O siz
+  e of 16 Kb.
+  00:0002:00000:00001:2015/11/21 23:03:14.41 server  Database &#39;sybsystemprocs&#39; is now online.
+
+  **New SSO password for sapsso:swffvtftbabbx3**
+
+  00:0002:00000:00014:2015/11/21 23:03:14.44 kernel  server will listen on all networks present on host
+  00:0002:00000:00014:2015/11/21 23:03:14.44 kernel  network name , interface IPv4, address X.X.X.X, type nlw
+  nsck, port 4901, filter NONE
+  00:0002:00000:00014:2015/11/21 23:03:14.45 kernel  network name , interface IPv4, address X.X.X.X, type nl
+  wnsck, port 4901, filter NONE
+  00:0002:00000:00014:2015/11/21 23:03:14.45 kernel  network name , interface IPv6, address X:X:X:X:X:X
+  3d, type nlwnsck, port 4901, filter NONE
+  00:0002:00000:00018:2015/11/21 23:03:14.45 kernel  hbc_ninit: No sockets available for HBC
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Не закрывая предыдущее окно в новом режиме терминала подключимся к БД под sapsso с новым паролем. Если isql выругается «Adaptive Server requires encryption of the login password on the network» значит на сервере настроен запрет на передачу пароля в незашифрованном виде и к команде вызова нужно будет добавить ключ -X. Процедура сброса паролей пользователей БД подробно описана в ноте 1706410 — SYB: Security — Changing passwords for database users&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  C:\Users\syb&amp;lt;did&amp;gt;&amp;gt; isql -Usapsso -w132 -c -Pswffvtftbabbx3 -X
+  1&amp;gt; alter login sapsso with password &amp;quot;swffvtftbabbx3&amp;quot; modify password &amp;lt;newpassword&amp;gt;
+  2&amp;gt; go
+  1&amp;gt; sp_locklogin sa, &#39;unlock&#39;
+  2&amp;gt;
+  Account unlocked.
+  (return status = 0)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Останавливаем сервер БД и повторяем процедуру для sa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Удаляем основную запись пользователя SAP* в таблице USR02 sa&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  C:\Users\syb&amp;lt;did&amp;gt;&amp;gt; isql -Usa -w132 -c -Pswffvtftbabbx3 -X
+  1&amp;gt; delete from SAPSR3.USR02 where BNAME = &amp;quot;SAP*&amp;quot;
+  2&amp;gt;
+  (3 rows affected)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Проверяем значение профильного параметра в профиле инстанции&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;login/no_automatic_user_sapstar = 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Убираем дополнительные ключи в стартовом файле Sybase и запускаем систему SAP
+Вот и все, надеюсь кому-то пригодится.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Сброс пароля sa и SAP* на SAP Sybase ASE 15.x</title>
+        <link>https://example.com/p/%D1%81%D0%B1%D1%80%D0%BE%D1%81-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-sa-%D0%B8-sap-%D0%BD%D0%B0-sap-sybase-ase-15.x/</link>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%D1%81%D0%B1%D1%80%D0%BE%D1%81-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-sa-%D0%B8-sap-%D0%BD%D0%B0-sap-sybase-ase-15.x/</guid>
+        <description>&lt;p&gt;В последнее время везет на задачи, связанные с получением доступа к SAP системам от которых утеряны пароли.&lt;/p&gt;
+&lt;p&gt;Сегодня опишу процесс активации SAP* на системе SAP SM на Sybase ASE при наличии доступа только на уровень ОС. Воспользуемся советами из ноты &lt;a class=&#34;link&#34; href=&#34;http://service.sap.com/sap/support/notes/1872806&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;1872806 — How to set a new password for SA account in Sybase ASE server&lt;/a&gt; , немного изменив их под нашу ситуацию.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Входим на сервер под учетной записью &lt;strong&gt;syb&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;. Под ней прописаны все нужные нам переменные окружения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Останавливаем Sybase.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Нам необходимо найти файл запуска БД по адресу $SYBASE/$SYBASE_ASE/install/RUN_&lt;!-- raw HTML omitted --&gt; и отредактировать его следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  /work/releases/rel16/ASE-16_0/bin/dataserver \
+  -srel16_bret_sun2 \
+  -i/work/releases/rel16 \
+  -N/work/releases/rel16/ASE-16_0/sysam/rel16_bret_sun2.properties \
+  -psapsso -d/work/releases/rel16/data/master.dat \
+  -e/work/releases/rel16/ASE-16_0/install/rel16_bret_sun2.log \
+  -c/work/releases/rel16/ASE-16_0/rel16_bret_sun2.cfg \
+  -M/work/releases/rel16/ASE-16_0 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В ноте скорее всего дается пример файла для ОС *nix, в моем случае на Windows параметр запуска был записан в одну строку. Обратите внимание, что в ноте указано добавление параметр -psa тогда как у меня в тексте -psapsso. Этот параметр генерирует пароль для указанного после литеры p аккаунта, в данном случае администратора БД — sa. Однако обычно, по умолчанию, этот логин заблокирован для входа, поэтому генерация пароля его пароля не позволит нам зайти в систему. Вместо этого мы используем другую УЗ с административными правами sapsso.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Запускаем сервер БД через отредактированный файл. В случае с ОС Windows необходимо запускать командную строку или PowerShell от имени администратора.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В окне терминала/командной строки промелькнет строчка о том, что пароль для указанной нами УЗ sapsso успешно сгенерирован.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  00:0002:00000:00001:2015/11/21 23:03:14.19 server  Completed cleaning up the default data cache for database &#39;sybsystemp
+  rocs&#39;.
+  00:0002:00000:00001:2015/11/21 23:03:14.19 server  Checking external objects.
+  00:0002:00000:00001:2015/11/21 23:03:14.39 server  The transaction log in the database &#39;sybsystemprocs&#39; will use I/O siz
+  e of 16 Kb.
+  00:0002:00000:00001:2015/11/21 23:03:14.41 server  Database &#39;sybsystemprocs&#39; is now online.
+
+  **New SSO password for sapsso:swffvtftbabbx3**
+
+  00:0002:00000:00014:2015/11/21 23:03:14.44 kernel  server will listen on all networks present on host
+  00:0002:00000:00014:2015/11/21 23:03:14.44 kernel  network name , interface IPv4, address X.X.X.X, type nlw
+  nsck, port 4901, filter NONE
+  00:0002:00000:00014:2015/11/21 23:03:14.45 kernel  network name , interface IPv4, address X.X.X.X, type nl
+  wnsck, port 4901, filter NONE
+  00:0002:00000:00014:2015/11/21 23:03:14.45 kernel  network name , interface IPv6, address X:X:X:X:X:X
+  3d, type nlwnsck, port 4901, filter NONE
+  00:0002:00000:00018:2015/11/21 23:03:14.45 kernel  hbc_ninit: No sockets available for HBC
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Не закрывая предыдущее окно в новом режиме терминала подключимся к БД под sapsso с новым паролем. Если isql выругается «Adaptive Server requires encryption of the login password on the network» значит на сервере настроен запрет на передачу пароля в незашифрованном виде и к команде вызова нужно будет добавить ключ -X. Процедура сброса паролей пользователей БД подробно описана в ноте 1706410 — SYB: Security — Changing passwords for database users&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  C:\Users\syb&amp;lt;did&amp;gt;&amp;gt; isql -Usapsso -w132 -c -Pswffvtftbabbx3 -X
+  1&amp;gt; alter login sapsso with password &amp;quot;swffvtftbabbx3&amp;quot; modify password &amp;lt;newpassword&amp;gt;
+  2&amp;gt; go
+  1&amp;gt; sp_locklogin sa, &#39;unlock&#39;
+  2&amp;gt;
+  Account unlocked.
+  (return status = 0)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Останавливаем сервер БД и повторяем процедуру для sa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Удаляем основную запись пользователя SAP* в таблице USR02 sa&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  C:\Users\syb&amp;lt;did&amp;gt;&amp;gt; isql -Usa -w132 -c -Pswffvtftbabbx3 -X
+  1&amp;gt; delete from SAPSR3.USR02 where BNAME = &amp;quot;SAP*&amp;quot;
+  2&amp;gt;
+  (3 rows affected)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Проверяем значение профильного параметра в профиле инстанции&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;login/no_automatic_user_sapstar = 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Убираем дополнительные ключи в стартовом файле Sybase и запускаем систему SAP
+Вот и все, надеюсь кому-то пригодится.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MaxDB startup error. 24988,ERR_SQL: SQL error. Error code 9050 «disk_not_accessible»</title>
+        <link>https://example.com/p/maxdb-startup-error.-24988err_sql-sql-error.-error-code-9050-disk_not_accessible/</link>
+        <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/maxdb-startup-error.-24988err_sql-sql-error.-error-code-9050-disk_not_accessible/</guid>
+        <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Сегодня после незапланированной перезагрузки сервера отказалась запускаться MaxDB&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;При попытке перевода базы в режим онлайн получили вот такую ошибку:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;24988,ERR_SQL: SQL error
+-902,I/O error
+3,Database state: OFFLINE
+Internal errorcode, Error code 9050 &amp;#34;disk_not_accessible&amp;#34;
+20017,RestartFilesystem failed with &amp;#39;I/O error&amp;#39;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Довольно быстро обнаружил подозрительное сообщение в  KnlMsgArchive (в более ранних версиях knldiag.err). Этот файл, как и другие трассировки доступен в MaxDB Run Directory&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;global_data_path&amp;gt;\wrk\&amp;lt;database_name&amp;gt;\&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Узнать текущее значение параметра &lt;strong&gt;&amp;lt;global_data_path&amp;gt;&lt;/strong&gt; можно через &lt;strong&gt;dbmcli&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;./dbmcli on &amp;lt;SID&amp;gt;&amp;gt;dbm_getpath DataPath
+OK
+/sapdb/&amp;lt;SID&amp;gt;/data&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Подозрительное сообщение было следующим:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;MSG _NO=»1″ _TYPE=»Error» _ID=»20043″ _COMP=»IOMan» _TEXT=»Capacity of Data_Volume volume 110 in database configuration (1966080) does not match capacity in iomanager info page (128000)»&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Проверил датафайлы на уровне файловой системы&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;datafiles_filesystem.png&#34; alt=&#34;MaxDB startup error. 24988&#34; width=&#34;ERR_SQL: SQL error. Error code 9050 «disk_not_accessible»&#34;/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Затем конфигурацию в самой БД командой param_getvolsall через dbmcli&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;datafiles_config1.png&#34; alt=&#34;MaxDB startup error. 24988&#34; width=&#34;ERR_SQL: SQL error. Error code 9050 «disk_not_accessible»&#34;/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Видно что размер 110 датафайла определенный в конфигурации базы данных отличается от размера файла на диске. Видимо при добавлении произошла ошибка которая не проявлялась до перезапуска бд.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Очевидно что в этой ситуации надо поправить конфигурацию в базе. Для этого переключил систему в режим db_offline, сделал резервную копию датафайла, а затем воспользовался двумя командами — &lt;a href=&#34;https://maxdb.sap.com/doc/7_7/45/114b7e4d9e7307e10000000a1553f7/content.htm&#34;&gt;param_delvolume&lt;/a&gt; и &lt;a href=&#34;https://maxdb.sap.com/doc/7_7/9e/bf06a0e4ae49a4b16882d4083ab119/content.htm&#34;&gt;param_addvolume&lt;/a&gt;. Первая удаляет сведения о датафайле из конфигурации, вторая добавляет.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;./dbmcli on &amp;lt;SID&amp;gt;&amp;gt;param_delvolume 110 DATA
+OK
+---
+param_addvolume 110 DATA &amp;#34;/sapdb/&amp;lt;SID&amp;gt;/sapdata/DISKD0099.110&amp;#34; F 128000
+OK
+---
+db_online
+OK
+---
+show state
+OK
+
+SERVERDB: &amp;lt;SID&amp;gt;
+The SERVERDB state is ONLINE
+Console command finished (2015-10-26 17:00:02).&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;База успешно запустилась без ошибок. С понедельником 🙂&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>Вход под SAP* в систему SAP on HANA</title>
+        <link>https://example.com/p/%D0%B2%D1%85%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4-sap-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83-sap-on-hana/</link>
+        <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%D0%B2%D1%85%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4-sap-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83-sap-on-hana/</guid>
+        <description>&lt;img src="https://example.com/p/%D0%B2%D1%85%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4-sap-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83-sap-on-hana/saphana.webp" alt="Featured image of post Вход под SAP* в систему SAP on HANA" /&gt;&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Итак у вас есть система SAP ERP, BW или какая-то другая система развернутая на базе данных SAP HANA. Требуется зайти в систему под суперпользователем SAP*. Инструкция аналогична входу под этим пользователем для других БД.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Во-первых для успешного необходимо установить значение параметра в профиле инстанции&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;login/no_automatic_user_sapstar = 0&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Возможность входа под SAP* вшита в ядро системы и используется в случае если был утерян пароль администратора или кончился срок действия лицензии и система блокирует вход под другими учетными записями. Механизм входа встроенный в ядро работает только если учетная запись SAP* не создана в системе. Если запись существует ее следует удалить средствами БД.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Для этого необходимо подключиться к системе HANA через SAP HANA Studio под учетной записью SAPABAP1 с мастер паролем т.к. у стандартного пользователя SYSTEM нет прав на работу со схемой содержащей таблицы SAP системы — SAPABAP1.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;hana_studio1.png&#34; alt=&#34;Вход под SAP* в систему SAP on HANA&#34;/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Далее, убедившись что основная запись пользователя SAP* существует, необходимо выполнить SQL запрос&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;listingblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;pre&gt;DELETE FROM SAPABAP1.USR02 where bname = &amp;#39;SAP*&amp;#39; and mandt = &amp;#39;000&amp;#39;;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;После этого в систему можно зайти под пользователем SAP* и стандартным паролем PASS&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://example.com/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
